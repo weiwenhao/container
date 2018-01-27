@@ -1,0 +1,17 @@
+{
+    "name": "weiwenhao/ioc",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weiwenhao",
+            "email": "1101140857@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Container\\": "src"
+        }
+    }
+}
